@@ -1,2 +1,3 @@
 # fastLockFreeInternalBinarySearchTree
-A Project for CSCI-B524 - Jayendra Khandare (jkhandar@umail.iu.edu)
+A Project for CSCI-B524 (Spring 2017)
+Jayendra Khandare (jkhandar@umail.iu.edu)
