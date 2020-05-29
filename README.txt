@@ -1,5 +1,5 @@
 A CPP implementation  of “A Fast Lock-Free  Internal Binary Search  Tree”
-A Project for CSCI-B524 - Jayendra Khandare (jkhandar@umail.iu.edu)
+A Project for CSCI-B524 - Jayendra Khandare (jayendrakhandare@gmail.com)
 =============================================================================
 REPORT : final_report_jkhandar.pdf
 
