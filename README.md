@@ -1,7 +1,7 @@
 # fastLockFreeInternalBinarySearchTree
 A CPP implementation  of “A Fast Lock-Free  Internal Binary Search  Tree”
 A Project for CSCI-B524 (Spring 2017)
-Jayendra Khandare (jkhandar@umail.iu.edu)
+Jayendra Khandare (jayendrakhandare@gmail.com)
 
 
 REPORT : final_report_jkhandar.pdf
